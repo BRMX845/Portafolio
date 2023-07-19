@@ -1,4 +1,12 @@
 <?php
+
+// BEGIN iThemes Security - No modifiques ni borres esta línea
+// iThemes Security Config Details: 2
+define( 'DISALLOW_FILE_EDIT', true ); // Desactivar editor de archivos - Seguridad > Ajustes > Ajustes WordPress > Editor de archivos
+// END iThemes Security - No modifiques ni borres esta línea
+
+define( 'ITSEC_ENCRYPTION_KEY', 'LWd9KiZWLkUrPnxpY1NlMnEqI2NUZnMwfUhANyh0P3VtcnNRPSRXdD5kJkpbbj5mQXV3UUBufkZgKllTaC1maw==' );
+
 /**
  * The base configuration for WordPress
  *
